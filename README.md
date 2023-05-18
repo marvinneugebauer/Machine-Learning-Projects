@@ -3,4 +3,4 @@
 # Description of the Projects
 
 - **Project 2: Biomechanical Features of Orthopedic Patients**
-    +  For two sets of CSV data files, where each file contains the same names, and the same structure, we’re interested in finding the shortest path between any two actors by choosing a sequence of movies that connects them. Therefore we are using the **breadth-first search algorithm** in ``degrees.py ``.
+    +  In this project, we build a machine learning model based on the k-Nearest Neighbors algorithm  with data of biomechanical features of orthopedic patients in order to classify patients as belonging to        one out of three categories: Normal (100 patients), Disk Hernia (60 patients) or Spondylolisthesis (150 patients).
