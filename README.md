@@ -6,3 +6,6 @@
 
 - **Project 2: Biomechanical Features of Orthopedic Patients**
     +  In this project, we build a machine learning model based on the k-Nearest Neighbors algorithm  with data of biomechanical features of orthopedic patients in order to classify patients as belonging to        one out of three categories: Normal (100 patients), Disk Hernia (60 patients) or Spondylolisthesis (150 patients).
+      
+- **Project 3: Weather Conditions in World War Two**
+    +  In this project we are investigating the relationship between the minimum and maximum temperatures and utilizing a linear regression model for temperature prediction. Therefore, we use data from the "Weather Conditions in World War Two" dataset.
