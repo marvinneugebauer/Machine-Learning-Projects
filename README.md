@@ -9,3 +9,6 @@
       
 - **Project 3: Weather Conditions in World War Two**
     +  In this project we are investigating the relationship between the minimum and maximum temperatures and utilizing a linear regression model for temperature prediction. Therefore, we use data from the "Weather Conditions in World War Two" dataset.
+    +  
+- **Project 4: A/B-Testing**
+    +  Given data that contains the advertisement click rate for two products, in this project we want to determine which product performs better. In order to achieve this goal, we use an A/B-Test.
