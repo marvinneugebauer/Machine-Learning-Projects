@@ -12,3 +12,10 @@
       
 - **Project 4: A/B-Testing**
     +  Given data that contains the advertisement click rate for two products, in this project we want to determine which product performs better. In order to achieve this goal, we use an A/B-Test.
+
+- **Project 5: A/B-Testing**
+    +  Given data that contains the advertisement click rate for two products, in this project we want to determine which product performs better. In order to achieve this goal, we use an A/B-Test.
+ 
+- **Project 6: Hourly Energy Consumption**
+    +  In this project, we utilize time-series data on hourly energy consumption to predict future values of energy consumption for one year in advance.
+
