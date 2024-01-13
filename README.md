@@ -1,6 +1,6 @@
 # Machine-Learning-Projects
 
-# Description of the Projects
+## Description of the Projects
 - **Project 1: Titanic - Machine Learning from Disaster**
     +  The project aims to utilize passenger data, including variables such as name, age, gender, socio-economic class, and more from the Titanic disaster to create a predictive model that can determine the likelihood of survival for passengers based on the provided features.
 
